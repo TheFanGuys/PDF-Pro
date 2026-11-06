@@ -1,0 +1,121 @@
+{
+  "precacheRawBytes": 9223563,
+  "precacheGzipBytes": 3432671,
+  "files": [
+    {
+      "file": "index.html",
+      "bytes": 793,
+      "gzipBytes": 453
+    },
+    {
+      "file": "manifest.webmanifest",
+      "bytes": 423,
+      "gzipBytes": 279
+    },
+    {
+      "file": "icons/mark.svg",
+      "bytes": 308,
+      "gzipBytes": 229
+    },
+    {
+      "file": "icons/apple-touch-icon.png",
+      "bytes": 932,
+      "gzipBytes": 769
+    },
+    {
+      "file": "vendor/stamps/manifest.json",
+      "bytes": 1822,
+      "gzipBytes": 506
+    },
+    {
+      "file": "vendor/stamps/stamps.pdf",
+      "bytes": 67118,
+      "gzipBytes": 42329
+    },
+    {
+      "file": "assets/worker-engine-BCCrxWYm-CN-6xTgd.js",
+      "bytes": 689503,
+      "gzipBytes": 119718
+    },
+    {
+      "file": "assets/square-6y1DdfEh.js",
+      "bytes": 176,
+      "gzipBytes": 167
+    },
+    {
+      "file": "assets/signature_pad-WSRARgwh.js",
+      "bytes": 15341,
+      "gzipBytes": 4513
+    },
+    {
+      "file": "assets/rolldown-runtime-BCiCTKAo.js",
+      "bytes": 1301,
+      "gzipBytes": 711
+    },
+    {
+      "file": "assets/render-R0ieRIYq.js",
+      "bytes": 443494,
+      "gzipBytes": 132321
+    },
+    {
+      "file": "assets/pdfium-BJ2Yip8Q.wasm",
+      "bytes": 4646932,
+      "gzipBytes": 2150224
+    },
+    {
+      "file": "assets/pdf.worker.min-CIqJB0yW.mjs",
+      "bytes": 1271915,
+      "gzipBytes": 380093
+    },
+    {
+      "file": "assets/index-gyXPUMy3.css",
+      "bytes": 44322,
+      "gzipBytes": 10083
+    },
+    {
+      "file": "assets/index-CuNuC_0x.js",
+      "bytes": 792743,
+      "gzipBytes": 290447
+    },
+    {
+      "file": "assets/file-plus-corner-B7xVM644.js",
+      "bytes": 402,
+      "gzipBytes": 278
+    },
+    {
+      "file": "assets/browser-BKLM0ThC-BCLQGPD6-Cbawriko.js",
+      "bytes": 19411,
+      "gzipBytes": 4377
+    },
+    {
+      "file": "assets/arrow-up-BORzQ_JW.js",
+      "bytes": 328,
+      "gzipBytes": 228
+    },
+    {
+      "file": "assets/__vite-browser-external-BwpP9LFt.js",
+      "bytes": 94,
+      "gzipBytes": 108
+    },
+    {
+      "file": "assets/SignatureDialog-BdcLgYwY.js",
+      "bytes": 6369,
+      "gzipBytes": 2406
+    },
+    {
+      "file": "assets/PdfWorkspace-CQqdAMGH.js",
+      "bytes": 1208645,
+      "gzipBytes": 287972
+    },
+    {
+      "file": "assets/PageOrganizer-BJy4rj-T.js",
+      "bytes": 6710,
+      "gzipBytes": 2636
+    },
+    {
+      "file": "assets/ExportDialog-BvcmvQPD.js",
+      "bytes": 4481,
+      "gzipBytes": 1824
+    }
+  ]
+}

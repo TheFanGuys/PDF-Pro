@@ -1,0 +1,31 @@
+PDF PRO — READY TO UPLOAD
+
+You do NOT need to run a build. The /docs folder in this ZIP is freshly rebuilt.
+
+1. Unzip PDF-Pro-GitHub-Ready.zip.
+2. Replace your old repository files, including the whole /docs folder.
+3. Upload the included .github/workflows/pages.yml over the old one. It is disabled.
+   If hidden folders do not upload from your phone, delete the old workflow in GitHub.
+4. GitHub Settings → Pages → Deploy from a branch → main → /docs → Save.
+5. Open the website link GitHub provides.
+
+Use the SAME website address as before so your saved files can migrate.
+Close old PDF Pro tabs before updating. Save work, then accept the app update if offered.
+
+WHAT IS NEW
+- Two saved, renameable signatures. Tap Sign to see both.
+- Text, Check, X, Date, and White-out tools for flat PDFs.
+- Page edits within one PDF keep its form fields working.
+- Lock form fields when preparing a saved/exported copy.
+- Prepare the file first, then tap Share / Save to Files.
+- Much smaller first load; OCR and templates load only when used.
+- Bigger controls, 16px inputs, and iPhone safe-area spacing.
+
+Your documents, settings, and templates move to the new local database automatically.
+The old database is kept as a fallback. Nothing is sent to a document server.
+
+White-out is a visual cover, NOT secure redaction.
+Download important documents for backup; browser storage can be cleared.
+
+The full source is included. No paid services, keys, accounts, or build tools are needed to use the app.
+Read README.md and TEST-RESULTS.md for details and remaining limitations.
