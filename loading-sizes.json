@@ -1,11 +1,11 @@
 {
-  "precacheRawBytes": 9223563,
-  "precacheGzipBytes": 3432671,
+  "precacheRawBytes": 9226349,
+  "precacheGzipBytes": 3433972,
   "files": [
     {
       "file": "index.html",
-      "bytes": 793,
-      "gzipBytes": 453
+      "bytes": 3579,
+      "gzipBytes": 1754
     },
     {
       "file": "manifest.webmanifest",
