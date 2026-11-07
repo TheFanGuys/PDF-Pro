@@ -1,11 +1,11 @@
 {
-  "precacheRawBytes": 9226144,
-  "precacheGzipBytes": 3433901,
+  "precacheRawBytes": 9228215,
+  "precacheGzipBytes": 3434621,
   "files": [
     {
       "file": "index.html",
       "bytes": 3595,
-      "gzipBytes": 1761
+      "gzipBytes": 1758
     },
     {
       "file": "manifest.webmanifest",
@@ -33,14 +33,14 @@
       "gzipBytes": 42329
     },
     {
-      "file": "assets/worker-engine-BCCrxWYm-BFuZ0yCy.js",
+      "file": "assets/worker-engine-BCCrxWYm-zcIa3n1B.js",
       "bytes": 689503,
-      "gzipBytes": 119718
+      "gzipBytes": 119720
     },
     {
-      "file": "assets/square-B04OZ_kE.js",
+      "file": "assets/square-B3OJcQmH.js",
       "bytes": 176,
-      "gzipBytes": 169
+      "gzipBytes": 168
     },
     {
       "file": "assets/signature_pad-WSRARgwh.js",
@@ -68,27 +68,27 @@
       "gzipBytes": 380093
     },
     {
-      "file": "assets/index-j2Rbw5ZX.js",
+      "file": "assets/index-BitAa-Wz.css",
+      "bytes": 45036,
+      "gzipBytes": 10293
+    },
+    {
+      "file": "assets/index-B0cdYZkM.js",
       "bytes": 792743,
-      "gzipBytes": 290444
+      "gzipBytes": 290450
     },
     {
-      "file": "assets/index-gyXPUMy3.css",
-      "bytes": 44322,
-      "gzipBytes": 10083
-    },
-    {
-      "file": "assets/file-plus-corner-B5iYhhhY.js",
+      "file": "assets/file-plus-corner-DYG1QCWe.js",
       "bytes": 402,
       "gzipBytes": 278
     },
     {
-      "file": "assets/browser-BKLM0ThC-BCLQGPD6-DRkCyfvo.js",
+      "file": "assets/browser-BKLM0ThC-BCLQGPD6-Uqbz-qek.js",
       "bytes": 19411,
-      "gzipBytes": 4376
+      "gzipBytes": 4377
     },
     {
-      "file": "assets/arrow-up--UX2z12u.js",
+      "file": "assets/arrow-up-CxxWYDqw.js",
       "bytes": 328,
       "gzipBytes": 229
     },
@@ -98,22 +98,22 @@
       "gzipBytes": 108
     },
     {
-      "file": "assets/SignatureDialog-B9pcbjJt.js",
+      "file": "assets/SignatureDialog-TQ1GVsCL.js",
       "bytes": 6369,
-      "gzipBytes": 2408
+      "gzipBytes": 2407
     },
     {
-      "file": "assets/PdfWorkspace-C_TuJctn.js",
-      "bytes": 1208424,
-      "gzipBytes": 287894
+      "file": "assets/PdfWorkspace-B5UHjos7.js",
+      "bytes": 1209781,
+      "gzipBytes": 288400
     },
     {
-      "file": "assets/PageOrganizer-BIttoPeS.js",
+      "file": "assets/PageOrganizer-cvdqHYA4.js",
       "bytes": 6710,
       "gzipBytes": 2634
     },
     {
-      "file": "assets/ExportDialog-B5lqHSVE.js",
+      "file": "assets/ExportDialog-B_6YPaj3.js",
       "bytes": 4481,
       "gzipBytes": 1825
     }
